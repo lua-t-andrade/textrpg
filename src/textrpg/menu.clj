@@ -4,7 +4,6 @@
 
 (def menu-text
   ["WELCOME TO THE TEXT RPG ADVENTURE!!1!"
-   "THIS GAME WAS MADE BY A FAGGOT GIRLBOYTHING."
    "1 START"
    "2 EXIT"])
 
